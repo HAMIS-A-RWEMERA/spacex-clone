@@ -187,14 +187,14 @@ body {
 }
 
 .technology-section {
-    background-image: url("./images/launchingtower.jpg");
+    background-image: url("./images/launchtower.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .spaceflight-section {
-    background-image: url("./images/Advancing_Human_Spaceflight_Desktop_61c8ba1c67.jpeg");
+    background-image: url("./images/Human_Spaceflight.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
